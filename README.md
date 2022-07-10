@@ -4,10 +4,10 @@ Hello!
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=somehowpatrick&count_private=true&theme=tokyonight&showicons=true)]()
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/SomehowPatrick/SomeScript/issues/1) in [SomehowPatrick/SomeScript](https://github.com/SomehowPatrick/SomeScript)
-2. ❗️ Opened issue [#1](https://github.com/SomehowPatrick/SomeScript/issues/1) in [SomehowPatrick/SomeScript](https://github.com/SomehowPatrick/SomeScript)
-3. 🎉 Merged PR [#2](https://github.com/SomehowPatrick/DevCord-PluginJam/pull/2) in [SomehowPatrick/DevCord-PluginJam](https://github.com/SomehowPatrick/DevCord-PluginJam)
-4. 💪 Opened PR [#2](https://github.com/SomehowPatrick/DevCord-PluginJam/pull/2) in [SomehowPatrick/DevCord-PluginJam](https://github.com/SomehowPatrick/DevCord-PluginJam)
+1. 🎉 Merged PR [#1](https://github.com/SomehowPatrick/recipehub/pull/1) in [SomehowPatrick/recipehub](https://github.com/SomehowPatrick/recipehub)
+2. 💪 Opened PR [#1](https://github.com/SomehowPatrick/recipehub/pull/1) in [SomehowPatrick/recipehub](https://github.com/SomehowPatrick/recipehub)
+3. 🗣 Commented on [#1](https://github.com/SomehowPatrick/SomeScript/issues/1) in [SomehowPatrick/SomeScript](https://github.com/SomehowPatrick/SomeScript)
+4. ❗️ Opened issue [#1](https://github.com/SomehowPatrick/SomeScript/issues/1) in [SomehowPatrick/SomeScript](https://github.com/SomehowPatrick/SomeScript)
 5. 🎉 Merged PR [#1](https://github.com/SomehowPatrick/DevCord-PluginJam/pull/1) in [SomehowPatrick/DevCord-PluginJam](https://github.com/SomehowPatrick/DevCord-PluginJam)
 6. 💪 Opened PR [#1](https://github.com/SomehowPatrick/DevCord-PluginJam/pull/1) in [SomehowPatrick/DevCord-PluginJam](https://github.com/SomehowPatrick/DevCord-PluginJam)
 7. 🗣 Commented on [#2498](https://github.com/amplication/amplication/issues/2498) in [amplication/amplication](https://github.com/amplication/amplication)
